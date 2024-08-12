@@ -3,7 +3,11 @@ Internship Contribution at VaultOfCodes
 As part of my internship at VaultOfCodes, I had the opportunity to contribute to this project by enhancing its functionality and pushing valuable code to the repository. 
 This experience has allowed me to deepen my understanding of software development practices, collaborate with other developers, 
 and improve the project's overall performance and usability. 
-My contributions included Frontend Development with HTML, CSS, and JavaScript
+My contributions included
+
+Frontend Development with HTML, CSS, and JavaScript
+
+
 During my internship at VaultOfCodes, I played a key role in developing the frontend for various portfolio and website projects, utilizing HTML, CSS, and JavaScript to create visually appealing ,
 and highly functional web pages. My primary responsibility was to ensure that the websites were not only aesthetically pleasing but also responsive across different devices and screen sizes.
 
@@ -20,7 +24,6 @@ By leveraging JavaScript, I was able to make the websites more engaging, providi
 
 Overall, my contributions significantly enhanced the usability and visual appeal of the websites, making them not only functional but also user-friendly and accessible to a broad audience.
 This internship provided me with invaluable hands-on experience in frontend development, allowing me to apply theoretical knowledge to real-world projects and further refine my skills in HTML, CSS, and JavaScript.
-
 
 and I have documented these changes to ensure seamless integration with the existing codebase.
 I hope that my work will positively impact the project and contribute to its ongoing success.
